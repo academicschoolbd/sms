@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="bn" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HSC ফলাফল চেক করার নির্দেশিকা</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Noto Sans Bengali', 'SutonnyMJ', Arial, sans-serif;
+      line-height: 1.6;
+      color: #000;
+      background-color: #fff;
+      margin: 0;
+      padding: 1rem;
+    }
+    .article-container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 6px;
+    }
+    h1, h2, h3 {
+      font-weight: 700;
+      color: #000;
+    }
+    h1 {
+      font-size: 1.6rem;
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    h2 {
+      font-size: 1.3rem;
+      margin-top: 1.5rem;
+      margin-bottom: 0.8rem;
+      border-bottom: 1.5px solid #2c6e49;
+      padding-bottom: 0.3rem;
+    }
+    p {
+      font-size: 1rem;
+      margin: 0.8rem 0;
+      text-align: justify;
+    }
+    .highlight {
+      background-color: #f0f9f1;
+      padding: 1rem;
+      border-left: 4px solid #2c6e49;
+      margin: 1rem 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 0.75rem;
+      text-align: left;
+    }
+    th {
+      background-color: #2c6e49;
+      color: white;
+    }
+    .note {
+      font-size: 0.9rem;
+      color: #666;
+      font-style: italic;
+    }
+    .board-list {
+      margin-left: 1.5rem;
+    }
+    .board-list li {
+      margin-bottom: 0.4rem;
+    }
+  </style>
+</head>
+<body>
+  <article class="article-container">
+    <h1>এইচএসসি ও সমমান পরীক্ষার ফলাফল মোবাইল এসএমএসের মাধ্যমে জানার পদ্ধতি</h1>
+
+    <p>
+      বোর্ড কর্তৃক ফলাফল প্রকাশিত হওয়ার পর শিক্ষার্থীরা তাদের মোবাইল ফোনের মাধ্যমে এসএমএস Push-Pull পদ্ধতিতে এইচএসসি ও সমমান পরীক্ষার ফলাফল জানতে পারবেন।
+    </p>
+
+    <h2>নিয়মিত Push-Pull এসএমএস সেবা</h2>
+    <p>
+      প্রতি বছরের মতো এবারও নিয়মিত Push-Pull এসএমএস সেবা চালু রয়েছে। ফলাফল জানতে নিম্নোক্ত ফরম্যাটে এসএমএস পাঠাতে হবে:
+    </p>
+    <div class="highlight">
+      <p><strong>HSC&lt;স্পেস&gt;বোর্ডের প্রথম ৩ অক্ষর&lt;স্পেস&gt;রোল নম্বর&lt;স্পেস&gt;সাল</strong> → <strong>১৬২২২</strong> নম্বরে</p>
+    </div>
+    <p class="note">প্রতি এসএমএসের মূল্য: ২.৭৮ টাকা (সকল করসহ)</p>
+
+    <h2>শিক্ষা বোর্ডের কীওয়ার্ডসমূহ</h2>
+    <ul class="board-list">
+      <li>ঢাকা – <strong>Dha</strong></li>
+      <li>বরিশাল – <strong>Bar</strong></li>
+      <li>চট্টগ্রাম – <strong>Chi</strong></li>
+      <li>কুমিল্লা – <strong>Com</strong></li>
+      <li>যশোর – <strong>Jes</strong></li>
+      <li>রাজশাহী – <strong>Raj</strong></li>
+      <li>সিলেট – <strong>Syl</strong></li>
+      <li>দিনাজপুর – <strong>Din</strong></li>
+      <li>ময়মনসিংহ – <strong>Mym</strong></li>
+      <li>মাদ্রাসা – <strong>Mad</strong></li>
+      <li>কারিগরি – <strong>Tec</strong></li>
+    </ul>
+
+    <h2>এসএমএস পাঠানোর নির্দেশাবলী</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>এসএমএস ফরম্যাট</th>
+          <th>প্রযোজ্য বোর্ড</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><code>HSC&lt;&gt;BOARD&lt;&gt;ROLL&lt;&gt;YEAR</code> → <strong>১৬২২২</strong></td>
+          <td>সাধারণ শিক্ষা বোর্ডসমূহ</td>
+        </tr>
+        <tr>
+          <td><code>HSC&lt;&gt;MAD&lt;&gt;ROLL&lt;&gt;YEAR</code> → <strong>১৬২২২</strong></td>
+          <td>মাদ্রাসা শিক্ষা বোর্ডের শিক্ষার্থীদের জন্য</td>
+        </tr>
+        <tr>
+          <td><code>HSC&lt;&gt;TEC&lt;&gt;ROLL&lt;&gt;YEAR</code> → <strong>১৬২২২</strong></td>
+          <td>কারিগরি শিক্ষা বোর্ডের শিক্ষার্থীদের জন্য</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="note">
+      ✅ উদাহরণ: ঢাকা বোর্ডের রোল ১২৩৪৫৬, সাল ২০২৪ হলে — <strong>HSC Dha 123456 2024</strong> → ১৬২২২
+    </p>
+  </article>
+</body>
+</html>
